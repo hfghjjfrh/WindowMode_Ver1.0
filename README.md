@@ -36,7 +36,4 @@ Java Swing を使った簡単な GUI アプリケーションです。
 
 ---
 
-## **使い方**
-1. Java コンパイラでコンパイル：
-   ```bash
-   javac practice1.java
+
